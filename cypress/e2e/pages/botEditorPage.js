@@ -1,3 +1,12 @@
+/**
+ * Author: Harshit Mishra
+ * Project: SDET_Assignment_Automation_Anywhere
+ * GitHub: https://github.com/Harshit110204/SDET_Assignment_Automation_Anywhere/tree/main
+ * Copyright (c) 2025. All rights reserved.
+ * Any reproduction without proper credit is unethical.
+ */
+
+
 class BotEditorPage {
 searchMessageBox(text) {
   cy.get('input[placeholder="Search actions"]', { timeout: 10000 })  

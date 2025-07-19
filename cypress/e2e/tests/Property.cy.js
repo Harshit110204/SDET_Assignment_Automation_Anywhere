@@ -1,3 +1,10 @@
+/**
+ * Author: Harshit Mishra
+ * Project: SDET_Assignment_Automation_Anywhere
+ * GitHub: https://github.com/Harshit110204/SDET_Assignment_Automation_Anywhere/tree/main
+ * Copyright (c) 2025. All rights reserved.
+ * Any reproduction without proper credit is unethical.
+ */
 import LoginPage from '../pages/loginPage'
 import ExplorePage from '../pages/explorePage'
 import CreateBotPage from '../pages/createBotPage'
